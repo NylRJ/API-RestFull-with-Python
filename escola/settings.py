@@ -9,7 +9,8 @@ https://docs.djangoproject.com/en/2.2/topics/settings/
 For the full list of settings and their values, see
 https://docs.djangoproject.com/en/2.2/ref/settings/
 
-Token: 88bb32ab3940ecf6d7a0a33cc56b01ffc0651a47
+Token moises.souza: 88bb32ab3940ecf6d7a0a33cc56b01ffc0651a47
+Token ana.maria: 828a382750947b342c2a72bab34da338646f4d18
 
 """
 
